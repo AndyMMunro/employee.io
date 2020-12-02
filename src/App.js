@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div>
           <Wrapper>
-            <Route exact path="/employee.io" component={Home} />
+            <Route path="/" component={Home} />
           </Wrapper>
       </div>
     </Router>

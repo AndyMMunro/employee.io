@@ -4,16 +4,17 @@ import Home from "./pages/Home";
 import Wrapper from "./components/Wrapper"
 
 
-function EmployeeDir() {
+function App() {
+  console.log("hope this works");
   return (
     <Router>
       <div>
           <Wrapper>
-            <Route exact path="/" component={Home} />
+            <Route exact path="/employee.io" component={Home} />
           </Wrapper>
       </div>
     </Router>
   );
 }
 
-export default EmployeeDir;
+export default App;

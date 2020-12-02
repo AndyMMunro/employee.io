@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/employee/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/employee/static/js/main.220a4205.chunk.js",
-    "main.js.map": "/employee/static/js/main.220a4205.chunk.js.map",
-    "runtime-main.js": "/employee/static/js/runtime-main.ba3971ab.js",
-    "runtime-main.js.map": "/employee/static/js/runtime-main.ba3971ab.js.map",
-    "static/js/2.b03bddbf.chunk.js": "/employee/static/js/2.b03bddbf.chunk.js",
-    "static/js/2.b03bddbf.chunk.js.map": "/employee/static/js/2.b03bddbf.chunk.js.map",
-    "static/js/3.1b3e85d6.chunk.js": "/employee/static/js/3.1b3e85d6.chunk.js",
-    "static/js/3.1b3e85d6.chunk.js.map": "/employee/static/js/3.1b3e85d6.chunk.js.map",
-    "index.html": "/employee/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/employee/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b03bddbf.chunk.js.LICENSE.txt": "/employee/static/js/2.b03bddbf.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/employee/static/media/logo.6ce24c58.svg"
+    "main.css": "/employee.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/employee.io/static/js/main.220a4205.chunk.js",
+    "main.js.map": "/employee.io/static/js/main.220a4205.chunk.js.map",
+    "runtime-main.js": "/employee.io/static/js/runtime-main.451b6521.js",
+    "runtime-main.js.map": "/employee.io/static/js/runtime-main.451b6521.js.map",
+    "static/js/2.b03bddbf.chunk.js": "/employee.io/static/js/2.b03bddbf.chunk.js",
+    "static/js/2.b03bddbf.chunk.js.map": "/employee.io/static/js/2.b03bddbf.chunk.js.map",
+    "static/js/3.1b3e85d6.chunk.js": "/employee.io/static/js/3.1b3e85d6.chunk.js",
+    "static/js/3.1b3e85d6.chunk.js.map": "/employee.io/static/js/3.1b3e85d6.chunk.js.map",
+    "index.html": "/employee.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/employee.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b03bddbf.chunk.js.LICENSE.txt": "/employee.io/static/js/2.b03bddbf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/employee.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba3971ab.js",
+    "static/js/runtime-main.451b6521.js",
     "static/js/2.b03bddbf.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.220a4205.chunk.js"
